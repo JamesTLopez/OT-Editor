@@ -1,4 +1,4 @@
-# NewConcurrent
+# OT-Editor
 
 An attempt at recreating OT for concurrent file editing applications like Google docs.
 
